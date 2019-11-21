@@ -1,0 +1,3 @@
+[all]
+bears = PyCommentedCodeBear
+files = **.py
